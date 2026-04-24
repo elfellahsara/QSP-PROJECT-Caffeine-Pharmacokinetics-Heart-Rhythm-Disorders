@@ -10,8 +10,8 @@ the pharmacokinetic (PK) and pharmacodynamic (PD) effects of caffeine on cardiov
 functions, specifically **heart rate** and **QTc interval (cardiac repolarization)**.
 
 Two common caffeine sources are compared:
-- ☕ **Brewed Coffee** (~95mg caffeine, 8 oz)
-- ⚡ **Energy Drink** (~160mg caffeine, 16 oz)
+- **Brewed Coffee** (~95mg caffeine, 8 oz)
+- **Energy Drink** (~160mg caffeine, 16 oz)
 
 The model simulates caffeine absorption, distribution, and elimination using a
 **2-compartment ODE-based PK model**, linked to PD response models for heart rate
