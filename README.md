@@ -1,4 +1,4 @@
-# ☕ QSP Model: Caffeine & Cardiovascular Effects
+# QSP Model: Caffeine & Cardiovascular Effects
 ### Quantitative Systems Pharmacology | R  Project
 
 ---
